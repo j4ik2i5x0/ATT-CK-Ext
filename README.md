@@ -53,7 +53,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Karan1007/attack-ttp-extractor.git
+   git clone https://github.com/j4ik2i5x0/ATT-CK-Ext.git
    cd attack-ttp-extractor
    ```
 
